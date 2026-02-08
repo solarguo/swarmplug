@@ -1,4 +1,4 @@
-# SwarmPlug
+# SwarmPlug ver0.1
 
 **SwarmPlug** is a plug-and-play connectivity layer for **ROS1-based multi-agent systems**,  
 designed to enable decentralized **association, introspection, and coordination** across heterogeneous robotic swarms.
